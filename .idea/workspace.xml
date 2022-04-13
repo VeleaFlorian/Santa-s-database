@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d662010a-d6c5-4bb5-92a6-5b13c2206c94" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/factory/ElfFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elf/BlackElf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elf/PinkElf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elf/YellowElf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/libraries/checkstyle_8_36_2_all.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/libraries/checkstyle_8_36_2_all1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/libraries/jackson_annotations_2_13_0_rc1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Proiect_skel.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/checkstyle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/.idea/libraries/libs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/.idea/libs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/jackson-annotations-2.13.0-rc1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/jackson-core-2.13.0-rc1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/jackson-databind-2.13.0-rc1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/lombok-1.18.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/lombok.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/org.json.simple-0.3-incubating.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/checker/Checker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/checker/Checkstyle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/checker/checkstyle-8.36.2-all.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/checker/checkstyle.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/checker/poo_checks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/children/AnualAgeRevision.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/children/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/children/UptadeChildrenData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/common/Constants$AgeCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/common/Constants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/designpatterns/Strategy/AverageScoreStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/designpatterns/Strategy/BabyStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/designpatterns/Strategy/KidStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/designpatterns/Strategy/TeenStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/designpatterns/factory/AgeCategoryFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/designpatterns/factory/AverageScoreFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/enums/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/enums/Cities.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/fileio/AnualChangesInputData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/fileio/BudgetCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/fileio/ChildrenInputData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/fileio/ChildrenUpdatesInputData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/fileio/Input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/fileio/InputLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/fileio/SantaGiftsInputData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/fileio/ShowInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/fileio/Writer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/gifts/AddGifts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/gifts/SantaGiftList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/proiect1/utils/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_22.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_23.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_25.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/out_9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/proiect1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test22.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test23.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test25.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/ref_test9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/checker/Checker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/checker/Checkstyle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/checker/checkstyle-8.36.2-all.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/checker/checkstyle.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/checker/poo_checks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/children/AnualAgeRevision.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/children/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/children/UptadeChildrenData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/common/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/designpatterns/Strategy/AverageScoreStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/designpatterns/Strategy/BabyStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/designpatterns/Strategy/KidStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/designpatterns/Strategy/TeenStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/designpatterns/factory/AgeCategoryFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/designpatterns/factory/AverageScoreFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/enums/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/enums/Cities.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/fileio/AnualChangesInputData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/fileio/BudgetCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/fileio/ChildrenInputData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/fileio/ChildrenUpdatesInputData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/fileio/Input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/fileio/InputLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/fileio/SantaGiftsInputData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/fileio/ShowInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/fileio/Writer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/gifts/AddGifts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/gifts/SantaGiftList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/utils/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test22.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test23.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test25.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test9.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="ProjectId" id="21v2UmCFgudLtO2NUqgyGG5QiA1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="proiect1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d662010a-d6c5-4bb5-92a6-5b13c2206c94" name="Changes" comment="" />
+      <created>1638807258397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638807258397</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
